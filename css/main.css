@@ -178,6 +178,11 @@ ul {
     z-index: 1000;
   }
 
+  #img2_p,
+  #img3_p {
+    margin: 10px auto;
+  }
+
 /* ---- Page Elements ---- */
 
   .logo {
@@ -287,11 +292,6 @@ ul {
 
   #fsl2 {
     float: right;
-  }
-
-  #img2_p,
-  #img3_p {
-    margin: 10px auto;
   }
 
 /* ---- Tables ---- */
