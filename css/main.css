@@ -289,6 +289,11 @@ ul {
     float: right;
   }
 
+  #img2_p,
+  #img3_p {
+    margin: 10px auto;
+  }
+
 /* ---- Tables ---- */
 
   table {
